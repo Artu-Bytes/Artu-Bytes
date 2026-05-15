@@ -79,7 +79,7 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artu-Bytes&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
   <summary>GitHub Trophies 🏆</summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsharma01&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Artu-Bytes&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
   </p>
 </details>
 
